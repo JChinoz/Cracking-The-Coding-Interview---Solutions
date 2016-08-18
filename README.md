@@ -99,3 +99,11 @@ Instead of:
 0  0  0  0
 
 In the second approach, I figured that the algorithm must loop through all the elements of the matrix at least once to determine the positions of where elements have a 0 value. I then store row and column positions into a stack (I intend to use queue but I don't think Java has one as far as I know and the FIFO and LIFO order doesn't really matter anyway) as it is much easier to iterate and pop individual elements of the stack (or queue) as compared to an ArrayList (which I did try but failed because it cannot easily reduce its size as compared to a List-type data structure). So I created 2 stacks, one to store row and one to store column and ultimately convert those elements perpendicular to these elements into 0.
+
+### Exercise 1.8
+
+Makes more sense to use a LinkedList or a StringBuilder lest you don't want to sacrifice space and time :)
+
+### Exercise 2.2
+
+A very very ambiguous question that can be solved with plethora of easy and difficult approach. I don't even know if this is exactly the optimal solution to the problem but I think at least I got the job done :|
