@@ -1,6 +1,8 @@
 # Cracking-The-Coding-Interview---Solutions
 My own solutions to Cracking the Coding Interview by Gayle Laakmann
 
+Note that all of my coding attempts are done in Java which allows me to have the ease of use of library functions to do more complicated algorithmic tasks (such as sorting an array). My reasoning for using Java as the language of choice is due to the fact that I am most proficient in it and therefore makes me feel much comfortable using it to handle these tasks.
+
 ## Journal on My Thoughts : 
 
 ### Exercise 1.1
