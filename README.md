@@ -62,11 +62,11 @@ In the first one, I went with the idea that I am able to convert both the corres
 
 Eg:
 
-2 | 4 | 3 | 1
-3 | 1 | 2 | 1
-1 | 4 | 1 | 3
-1 | 2 | 4 | 1
-1 | 0 | 1 | 0
+|2 | 4 | 3 | 1|
+|3 | 1 | 2 | 1|
+|1 | 4 | 1 | 3|
+|1 | 2 | 4 | 1|
+|1 | 0 | 1 | 0|
 
 Into:
 
