@@ -107,3 +107,7 @@ Makes more sense to use a LinkedList or a StringBuilder lest you don't want to s
 ### Exercise 2.2
 
 A very very ambiguous question that can be solved with plethora of easy and difficult approach. I don't even know if this is exactly the optimal solution to the problem but I think at least I got the job done :|
+
+### Exercise 2.3
+
+I'm going to skip this one because doing it in Java (with help of all the built-in functions) is way too easy. I'll come back attempt it after I cross check what the solution provides for ambiguous questions like these.
