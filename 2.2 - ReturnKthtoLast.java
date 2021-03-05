@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ReturnKthtoLast 
+class ReturnKthtoLast 
 {
 	public static void main(String[] args)
 	{

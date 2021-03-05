@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RotateMatrix 
+class RotateMatrix 
 {
 	public static void main(String[] args)
 	{

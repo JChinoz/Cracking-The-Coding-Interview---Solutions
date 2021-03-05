@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RemoveDups 
+class RemoveDups 
 {
 	public static void main(String[] args)
 	{

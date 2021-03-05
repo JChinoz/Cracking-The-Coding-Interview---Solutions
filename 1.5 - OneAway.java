@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class OneAway 
+class OneAway 
 {
 	public static void main(String[] args)
 	{

@@ -1,5 +1,5 @@
 import java.util.*;
-public class CheckPermutation 
+class CheckPermutation 
 {
 	public static void main(String[] args)
 	{

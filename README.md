@@ -3,6 +3,11 @@ My own solutions to Cracking the Coding Interview by Gayle Laakmann
 
 Note that all of my coding attempts are done in Java which allows me to have the ease of use of library functions to do more complicated algorithmic tasks (such as sorting an array). My reasoning for using Java as the language of choice is due to the fact that I am most proficient in it and therefore makes me feel much comfortable using it to handle these tasks.
 
+#### Update 5/3/2021
+I can't believe that the last time I actually attempted CTCI question is back 5 years ago when I'm stuck in my old job trying to get out. In terms of problem solving through coding, I don't think I've progressed anywhere beyond what I've covered here so far. Sure I've participated in some HackerRank and TopCoder contests to get it brushed up back then but its only a half-baked effort at best. I'm using CTCI solutions as a kind of baseline to see where I'm at. Anything extra from other coding platforms like HackerRank or LeetCode or TopCoder is just fillers from here on out.
+
+Here goes nothing on a new start.
+
 ## Journal on My Thoughts : 
 
 ### Exercise 1.1

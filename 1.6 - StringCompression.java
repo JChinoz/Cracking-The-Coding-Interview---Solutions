@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class StringCompression 
+class StringCompression 
 {
 	public static void main(String[] args)
 	{

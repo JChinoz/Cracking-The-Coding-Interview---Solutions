@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class URLify 
+class URLify 
 {
 	public static void main(String[] args)
 	{

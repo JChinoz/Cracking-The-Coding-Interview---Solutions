@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class IsUnique 
+class IsUnique 
 {
 	public static void main(String[] args)
 	{

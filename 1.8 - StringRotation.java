@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class StringRotation 
+class StringRotation 
 {
 	public static void main(String[] args)
 	{
